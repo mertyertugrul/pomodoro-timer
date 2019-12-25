@@ -1,7 +1,7 @@
 # pomodoro-timer
 Pomodoro Timer for MacOS written in Swift 4
 
-**[Download](https://drive.google.com/file/d/1MOgTFd0ln45mIOTWMrJ44lKqw6kAc7ls/view?usp=sharing)**
+**[Download](https://drive.google.com/file/d/1p32DFbcxE0b1D6sZsdas5Ks6OQT4oMnt/view?usp=sharing)**
 
 ![screenshot1](https://i.stack.imgur.com/QpYYa.png)
 
